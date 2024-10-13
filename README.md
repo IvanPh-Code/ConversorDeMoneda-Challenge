@@ -12,7 +12,7 @@ Este proyecto es un conversor de monedas desarrollado en Java que utiliza la API
 
 1. **Clonación del repositorio:**
    git clone https://github.com/tu_usuario/ConversorDeMonedas-Challenge.git
-   cd conversor-de-monedas
+   cd ConversorDeMonedas-Challenge
 
 
 2. **Configuración del proyecto:**
